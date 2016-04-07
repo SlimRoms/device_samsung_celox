@@ -1,4 +1,4 @@
-add_lunch_combo candy_skyrocket-user
-add_lunch_combo candy_skyrocket-userdebug
-add_lunch_combo candy_skyrocket-eng
+add_lunch_combo candy_celox-user
+add_lunch_combo candy_celox-userdebug
+add_lunch_combo candy_celox-eng
 
