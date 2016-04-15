@@ -1,3 +1,5 @@
+ifeq ($(TARGET_BOARD_PLATFORM),msm8660)
+
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
@@ -24,3 +26,5 @@ LOCAL_MODULE_CLASS := ETC
 LOCAL_SRC_FILES    := etc/init.target.rc
 LOCAL_MODULE_PATH  := $(TARGET_ROOT_OUT)
 include $(BUILD_PREBUILT)
+
+endif
