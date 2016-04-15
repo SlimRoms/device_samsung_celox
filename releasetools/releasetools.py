@@ -16,7 +16,6 @@
 import common
 import struct
 
-
 """Custom OTA commands for celox devices"""
 
 def FullOTA_Assertions(info):
