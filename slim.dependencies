@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "SlimRoms/device_samsung_msm8660-common",
+    "target_path": "device/samsung/msm8660-common"
+  },
+  {
+    "repository": "SlimRoms/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  },
+  {
+    "repository": "SlimRoms/kernel_samsung_msm8660",
+    "target_path": "kernel/samsung/msm8660"
+  },
+  {
+    "repository": "SlimRoms/android_external_stlport",
+    "target_path": "external/stlport"
+  },
+  {
+    "repository": "SlimRoms/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat"
+  },
+  {
+    "repository": "SlimRoms/hardware_samsung",
+    "target_path": "hardware/samsung"
+  }
+]

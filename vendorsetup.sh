@@ -1,4 +1,4 @@
-add_lunch_combo candy_celox-user
-add_lunch_combo candy_celox-userdebug
-add_lunch_combo candy_celox-eng
+add_lunch_combo slim_celox-user
+add_lunch_combo slim_celox-userdebug
+add_lunch_combo slim_celox-eng
 
